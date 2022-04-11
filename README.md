@@ -1,1 +1,1 @@
-# odin-recipes
+recipe app
